@@ -1,5 +1,5 @@
 {-# LANGUAGE TypeApplications #-}
-{-# LANGUAGE DataKinds        #-}
+--{-# LANGUAGE DataKinds        #-}
 
 module Week04.Trace where
 
